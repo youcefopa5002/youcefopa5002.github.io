@@ -1,0 +1,21 @@
+// 
+// Colors
+// 
+
+// Pre-state grayscale colors used in other variables
+
+$gray-800: #343a40;
+
+// Custom color palette (user provided)
+$primary: #071952; // Dark blue (Primary)
+$secondary: #088395; // Calm cyan (Secondary)
+$accent: #37B7C3; // Turquoise (Accent)
+$page-bg: #EBF4F6; // Very light gray (Background)
+$text-color: #2C2C2C; // Dark gray (Text)
+
+// Map to Bootstrap variables where appropriate
+$body-bg: $page-bg;
+$body-color: $text-color;
+
+// Keep an alias for older references
+$brand-primary: $primary;
