@@ -93,3 +93,5 @@ My focus areas include **Smart Control Systems**, **AI-driven automation**, and 
 ---
 
 © 2025 bouzidi_youssouf — All rights reserved.
+
+a.btn.btn-primary(href='assets/files/Youcef_Bouzidi_CV.pdf' download) Download CV (PDF)
